@@ -1,0 +1,47 @@
+
+
+
+body{
+    padding: 100px;
+}
+h1{
+    margin-top: 50px;
+}
+.submit-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 40px;
+}
+#tranjection-area{
+    display: none;
+}
+
+.cs{
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    margin: 0 20px;
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdrow{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
